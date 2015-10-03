@@ -13,11 +13,15 @@ a {text-align:center;color:red;font-size:31px;font-family:"arial";}
 <body>
 	
 
-	<a href="Terminal Cheat Sheet" style="text-decoration:none"> Terminal Commands</a>
+	<a href="Terminal Cheat sheet" style="text-decoration:none"> Terminal Commands</a>
 	<p></p>
 	<p></p>
 	<p></p>
 	<a href="Git cheat sheet" style="text-decoration:none"> Git Commands</a>
+	<p></p>
+	<p></p>
+	<p></p>
+	<a href="hub.html" style="text-decoration:none"> Html tags</a>
 	
 
 

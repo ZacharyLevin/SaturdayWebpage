@@ -1,3 +1,32 @@
-<!DOCTYPE html>
 <html>
+<head>
+	<title> Terminal Commands</title>
+		<style>
+html {background-color:silver;}
+h2 {text-align:center;color:blue;font-family:"arial";}
+p {text-align:center;font-family:"arial";}
+a {text-align:center;color:red;font-size:31px;font-family:"arial";}
+</style>
+</head>
+<body>
+	<a href="Git cheat sheet" style="text-decoration:none"> Git Commands</a>
+	<p></p>
+	<p></p>
+	<p></p>
+	<a href="CSS cheat sheet" style="text-decoration:none"> CSS tags</a>
+	<p></p>
+	<p></p>
+	<p></p>
+	<a href="hub.html" style="text-decoration:none"> Html tags</a>
+
+	<h2> Terminal Commands</h2>
+	<p> ls= lists the contents of a particular directory</p>
+	<p> cd= changes to another directory(desktop, specific folders, etc.)</p>
+	<p> sudo= authenticates yourself as a superuser to gain extra security privileges</p>
+	<p> ~= brings you to the original level you were at in the computer</p>
+	<p> mkdir= creates a folder</p>
+	<p> touch= creates a new file</p>
+	<p> move= moves a file to another folder/level</p>
+
+	</body>
 </html>
