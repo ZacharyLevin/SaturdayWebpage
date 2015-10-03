@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> HTML AND CSS</title>
+<title>CSS</title>
 <style>
 html {background-color:silver;}
 h2 {text-align:center;color:blue;font-family:"arial";}
@@ -28,30 +28,30 @@ a {text-align:center;color:red;font-size:31px;font-family:"arial";}
 	<h2> CSS TAGS!!!!!</h2>
 	<h4> COLOR</h4>
 		
-		<p> color= selects the color of the text</p>
+		<p> <b>color</b>= selects the color of the text</p>
 	
 	<h4> BACKGROUND</h4>
 
-		<p> background-attachment= Sets whether of not a background picture is fixed or scrolls with the webpage</p>
-		<p> background-color= specifies the color of the background</p>
-		<p> background-image= specifies the image that'll be in the background</p>
-		<p> background-position= specifies the placement of the background image</p>
-		<p> background-size= specifies the size of the background image</p>
+		<p> <b>background-attachment</b>= Sets whether of not a background picture is fixed or scrolls with the webpage</p>
+		<p> <b>background-color</b>= specifies the color of the background</p>
+		<p> <b>background-image</b>= specifies the image that'll be in the background</p>
+		<p> <b>background-position</b>= specifies the placement of the background image</p>
+		<p> <b>background-siz</b>e= specifies the size of the background image</p>
 	
 	<h4> BASIC BOX</h3>
 		
-			<p> height= sets the height</p>
-			<p> margin= sets all margin properties(for specifics you can use margin-left, margin-right, margin-top, margin-bottom)</p>
-			<p> padding= sets all of the padding properties(for specifics you can use padding-left, padding-right, padding-top, padding-bottom)</p>
-			<p> width= sets the width</p>
-			<p> postion= specifies the type of postitioning method used for an element (static, relative, absolute, fixed)</p>
-			<p> .my-button= creates a button</p>
+			<p> <b>height</b>= sets the height</p>
+			<p> <b>margin</b>= sets all margin properties(for specifics you can use margin-left, margin-right, margin-top, margin-bottom)</p>
+			<p> <b>padding</b>= sets all of the padding properties(for specifics you can use padding-left, padding-right, padding-top, padding-bottom)</p>
+			<p> <b>width</b>= sets the width</p>
+			<p> <b>postion</b>= specifies the type of postitioning method used for an element (static, relative, absolute, fixed)</p>
+			<p> <b>.my-button</b>= creates a button</p>
 
 	<h4> FONT</h4>
 	
-			<p> font-family= specifies the family of the text</p>
-			<p> font-size= specifies the size of the font</p>
-			<p> font-weight= specifies the weight of the font</p>
+			<p> <b>font-family</b>= specifies the family of the text</p>
+			<p> <b>font-size</b>= specifies the size of the font</p>
+			<p> <b>font-weigh</b>x= specifies the weight of the font</p>
 
 			
 		

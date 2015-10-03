@@ -27,12 +27,12 @@ a {text-align:center;color:red;font-size:31px;font-family:"arial";}
 
 <h2> Git commands</h2>
 	
-		<p> git config= Configure the author name and email address to be used with your commits</p>
-		<p> git add= Add one or more files</p>
-		<p> git commit -m"message= Commits changes to head</p>
-		<p> git push -u origin master= Sends changes to the master branch of your remote repository</p>
-		<p> git status= Lists the files you've changed and those you still need to add or commit</p>
-		<p> git pull= Fetches and merges changes on the remote server to your working directory</p> 
+		<p> <b>git config</b>= Configure the author name and email address to be used with your commits</p>
+		<p> <b>git add</b>= Add one or more files</p>
+		<p> <b>git commit -m"message</b>= Commits changes to head</p>
+		<p> <b>git push -u origin master</b>= Sends changes to the master branch of your remote repository</p>
+		<p> <b>git status</b>= Lists the files you've changed and those you still need to add or commit</p>
+		<p> <b>git pull</b>= Fetches and merges changes on the remote server to your working directory</p> 
 
 
 

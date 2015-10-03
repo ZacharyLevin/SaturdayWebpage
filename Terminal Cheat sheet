@@ -20,13 +20,13 @@ a {text-align:center;color:red;font-size:31px;font-family:"arial";}
 	<a href="hub.html" style="text-decoration:none"> Html tags</a>
 
 	<h2> Terminal Commands</h2>
-	<p> ls= lists the contents of a particular directory</p>
-	<p> cd= changes to another directory(desktop, specific folders, etc.)</p>
-	<p> sudo= authenticates yourself as a superuser to gain extra security privileges</p>
-	<p> ~= brings you to the original level you were at in the computer</p>
-	<p> mkdir= creates a folder</p>
-	<p> touch= creates a new file</p>
-	<p> move= moves a file to another folder/level</p>
+	<p> <b>ls</b>= lists the contents of a particular directory</p>
+	<p> <b>cd</b>= changes to another directory(desktop, specific folders, etc.)</p>
+	<p> <b>sudo</b>= authenticates yourself as a superuser to gain extra security privileges</p>
+	<p> <b>~</b>= brings you to the original level you were at in the computer</p>
+	<p> <b>mkdir</b>= creates a folder</p>
+	<p> <b>touch</b>= creates a new file</p>
+	<p> <b>move</b>= moves a file to another folder/level</p>
 
 	</body>
 </html>
